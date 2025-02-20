@@ -17,3 +17,9 @@ MNIST dataset：http://yann.lecun.com/exdb/mnist/
 FashionMNIST dataset：[fashion-mnist/data/fashion at master · zalandoresearch/fashion-mnist (github.com)](https://github.com/zalandoresearch/fashion-mnist/tree/master/data/fashion)
 
 CIFAR10 dataset：[CIFAR-10 and CIFAR-100 datasets (toronto.edu)](http://www.cs.toronto.edu/~kriz/cifar.html)
+
+# Get Start
+
+## Environment
+Python3.8
+
