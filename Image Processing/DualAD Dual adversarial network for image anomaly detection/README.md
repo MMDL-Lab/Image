@@ -23,3 +23,33 @@ CIFAR10 dataset：[CIFAR-10 and CIFAR-100 datasets (toronto.edu)](http://www.cs.
 ## Environment
 Python3.8
 
+### Packages:
+- torch==1.9.0+cu116
+- torchvision==0.13.1+cu116
+
+## Requirements
+To create conda environment and install requirements:
+```
+conda create -n DualAD python=3.8
+conda activate DualAD
+pip install -r requirements.txt
+```
+
+# Training and Testing 
+```
+python main.py
+```
+
+# Cite
+```
+@article{wan2024dualad,
+  title={DualAD: Dual adversarial network for image anomaly detection⋆},
+  author={Wan, Yonghao and Feng, Aimin},
+  journal={IET Computer Vision},
+  volume={18},
+  number={8},
+  pages={1138--1148},
+  year={2024},
+  publisher={Wiley Online Library}
+}
+```
