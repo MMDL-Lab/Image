@@ -58,7 +58,7 @@ If you use this work, please cite:
 ```bibtex
 @inproceedings{grad2025,
   title={GRAD: Bi-Grid Reconstruction for Image Anomaly Detection},
-  author={...},
+  author={Huichuan Huang, Zhiqing Zhong, Guangyu Wei, Yonghao Wan, Wenlong Sun, Aimin Feng},
   booktitle={ICME 2025},
   year={2025},
   url={https://arxiv.org/abs/2504.00609}
