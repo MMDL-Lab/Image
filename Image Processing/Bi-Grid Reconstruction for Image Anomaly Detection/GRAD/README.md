@@ -54,3 +54,17 @@ To evaluate a trained model, run:
 cd experiments/
 bash eval_torch.sh
 ```
+
+## Citation
+If you use this work, please cite:
+```bibtex
+@inproceedings{grad2025,
+  title={GRAD: Bi-Grid Reconstruction for Image Anomaly Detection},
+  author={...},
+  booktitle={ICME 2025},
+  year={2025},
+  url={https://arxiv.org/abs/2504.00609}
+}
+```
+
+**Accepted at [ICME 2025](https://www.icme2025.org)** | **Preprint: [arXiv:2504.00609](https://arxiv.org/abs/2504.00609)**
