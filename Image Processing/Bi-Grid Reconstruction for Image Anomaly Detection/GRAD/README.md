@@ -2,8 +2,6 @@
 
 This repository is the official implementation of **GRAD: Bi-Grid Reconstruction for Image Anomaly Detection**. 
 
-This paper has been accepted by ICME 2025. The preprint is available on [arXiv:2504.00609](https://arxiv.org/abs/2504.00609).
-
 ## Get Started 
 ### Environment 
 
